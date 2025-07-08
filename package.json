@@ -1,0 +1,16 @@
+{
+  "name": "my-blog",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [],
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress-theme-mild": "^0.8.5",
+    "vitepress": "^1.6.3"
+  }
+}
